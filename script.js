@@ -10,14 +10,33 @@
   let showAll = false;
   const getYear = (item) => item.year || (item.text.match(/\b(19|20)\d{2}\b/g) || []).slice(-1)[0] || '—';
   const escapeHtml = (s) => String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-  function linkify(s) {
-    const safe = escapeHtml(s);
-    return safe.replace(/(https?:\/\/[^\s,;]+)/g, (url) => {
-      const clean = url.replace(/[.)]+$/, '');
-      const tail = url.slice(clean.length);
-      return `<a href="${clean}" target="_blank" rel="noopener noreferrer">${clean}</a>${tail}`;
-    }).replace(/(10\.\d{4,9}\/[A-Za-z0-9._;()/:+-]+)/g, (doi) => `<a href="https://doi.org/${doi}" target="_blank" rel="noopener noreferrer">${doi}</a>`);
+
+function linkify(s) {
+  const pattern = /(https?:\/\/[^\s,;]+|10\.\d{4,9}\/[A-Za-z0-9._;()/:+-]+)/g;
+  let result = '';
+  let lastIndex = 0;
+
+  for (const match of String(s).matchAll(pattern)) {
+    const value = match[0];
+    const index = match.index;
+
+    result += escapeHtml(String(s).slice(lastIndex, index));
+
+    const clean = value.replace(/[.)]+$/, '');
+    const tail = value.slice(clean.length);
+
+    const href = /^https?:\/\//i.test(clean)
+      ? clean
+      : `https://doi.org/${clean}`;
+
+    result += `<a href="${escapeHtml(href)}" target="_blank" rel="noopener noreferrer">${escapeHtml(clean)}</a>${escapeHtml(tail)}`;
+
+    lastIndex = index + value.length;
   }
+
+  return result + escapeHtml(String(s).slice(lastIndex));
+}
+
   function itemMarkup(item, type) {
     const year = getYear(item);
     let text = item.text;
