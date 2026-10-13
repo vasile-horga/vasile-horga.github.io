@@ -597,22 +597,22 @@ window.SCHOLAR_DATA = {
   ],
   "patents": [
     {
-      "text": "6. N.Pop, E.Wiens,V. Horga, P. Craciun, A.I. Timofte, I.S.Olaru, R. Botez, Method and System for Software-Based Pressure Ripple Mitigation in an Automotive Braking System, Cod Brevet 2026E01078 RO/25.05.2026"
+      "text": "6. N. Pop, E. Wiens, V. Horga, P. Craciun, A. I. Timofte, I. S. Olaru, R. Botez, Method and System for Software-Based Pressure Ripple Mitigation in an Automotive Braking System, Cod Brevet 2026E01078 RO/25.05.2026"
     },
     {
-      "text": "5. V.Horga, R. Mocanu, Th.  Knopik,P.-D. Silvestru, Online Self-Calibrating Techniques for the Analogue Magnetic Sinusoidal Position Transducer, Continental Automotive Technologies GmbH, Cod Brevet 2025E05749 RO/28.10.2025"
+      "text": "5. V. Horga, R. Mocanu, Th. Knopik, P.-D. Silvestru, Online Self-Calibrating Techniques for the Analogue Magnetic Sinusoidal Position Transducer, Continental Automotive Technologies GmbH, Cod Brevet 2025E05749 RO/28.10.2025"
     },
     {
-      "text": "4 C. Dosoftei, T.Popovici, V.Horga, I. Doroftei, V. Iolea, A. Ciobanu, Autonomous omnidirectionally mobile robot, Self Trust S.R.L Cod Brevet RO 135580 B1, Oficiul de stat pentru invenții și mărci, BOPI/Secțiunea Invenții/ 12/2023, 29.12.2023"
+      "text": "4. C. Dosoftei, T. Popovici, V. Horga, I. Doroftei, V. Iolea, A. Ciobanu, Autonomous omnidirectionally mobile robot, Self Trust S.R.L., Cod Brevet RO 135580 B1, Oficiul de Stat pentru Invenții și Mărci, BOPI/Secțiunea Invenții/12/2023, 29.12.2023"
     },
     {
-      "text": "3 V.Horga, A. Axinte, Unified Discrete-Time Complex Vector Current Controller for AC Machine Drives, Continental Automotive Technologies GmbH, Cod Brevet 2019E01073 RO/07.02.2019 DE10 2021/213676 A1 granted at 01.06.2023 WO 2023/098960 A1 – granted at 08.06.2023"
+      "text": "2. V. Horga, M. Bîrlădeanu, Unified Discrete-Time Position Observer for AC Machine Drives, Continental Automotive Technologies GmbH, Cod Brevet 2021E07267 RO, 19.11.2021; DE10 2022/214188 A1 granted at 20.06.2024; WO 2024/132553 A1 granted at 27.06.2024"
     },
     {
-      "text": "2. V.Horga, M. Bîrlădeanu, Unified Discrete-Time Position Observer for AC Machine Drives, Continental Automotive Technologies GmbH, Cod Brevet 2021E07267 RO, 19.11.2021 DE10 2022/214188 A1 granted at 20.06.2024 WO 2024/132553 A1 granted at 27.06.2024"
+      "text": "3. V. Horga, A. Axinte, Unified Discrete-Time Complex Vector Current Controller for AC Machine Drives, Continental Automotive Technologies GmbH, Cod Brevet 2019E01073 RO/07.02.2019; DE10 2021/213676 A1 granted at 01.06.2023; WO 2023/098960 A1 granted at 08.06.2023"
     },
     {
-      "text": "1. I. Doroftei, V. Horga, M. Rățoi, Vehicle with Four Omnidirectional Wheels (Vehicul cu patru roți omnidirecționale), Cod Brevet RO 128285 B1, Oficiul de stat pentru invenții și mărci, BOPI/Secțiunea Invenții/ 7/2109 – granted at 30.07.2019"
+      "text": "1. I. Doroftei, V. Horga, M. Rățoi, Vehicle with Four Omnidirectional Wheels (Vehicul cu patru roți omnidirecționale), Cod Brevet RO 128285 B1, Oficiul de Stat pentru Invenții și Mărci, BOPI/Secțiunea Invenții/7/2019 – granted at 30.07.2019"
     }
   ],
   "awards": [
