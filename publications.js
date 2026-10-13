@@ -104,11 +104,11 @@ window.SCHOLAR_DATA = {
     },
     {
       "year": 2020,
-      "text": "121. C.Dosoftei, V.Horga, I.Doroftei, T.Popovici, S.Custura, Simplified Mecanum Wheel Modelling using a Reduced Omni Wheel Model for Dynamic Simulation of an Omnidirectional Mobile Robot, EPE 2020, Iaşi, 22-23 October, 2020, DOI: 10.1109/EPE50722.2020.9305643, Conference: 2020 International Conference and Exposition on Electrical and Power Engineering (EPE), pp.721-726 (Scopus. WoS)"
+      "text": "121. C.Dosoftei, V.Horga, I.Doroftei, T.Popovici, S.Custura, Simplified Mecanum Wheel Modelling using a Reduced Omni Wheel Model for Dynamic Simulation of an Omnidirectional Mobile Robot, EPE 2020, Iaşi, 22-23 October, 2020, DOI: 10.1109/EPE50722.2020.9305643, Conference: 2020 International Conference and Exposition on Electrical and Power Engineering (EPE), pp.721-726"
     },
     {
       "year": 2018,
-      "text": "120. V.Horga, M. Răţoi, M. Albu, D. Lucache, Unified Complex Vector Current Controller for AC Machine Drives, EPE 2018, Iaşi, 18-19 October, 2018, DOI: 10.1109/ICEPE.2018.8559643, Conference: 2018 International Conference and Exposition on Electrical and Power Engineering (EPE), pp.924-931 (Scopus. WoS)"
+      "text": "120. V.Horga, M. Răţoi, M. Albu, D. Lucache, Unified Complex Vector Current Controller for AC Machine Drives, EPE 2018, Iaşi, 18-19 October, 2018, DOI: 10.1109/ICEPE.2018.8559643, Conference: 2018 International Conference and Exposition on Electrical and Power Engineering (EPE), pp.924-931"
     },
     {
       "year": 2018,
@@ -120,7 +120,7 @@ window.SCHOLAR_DATA = {
     },
     {
       "year": 2016,
-      "text": "117. G. Mihalache, Gh. Livint, V.Horga, A.Arcire, A New Mathematical Model for the Command Sequence Generator of a Two-Phase Hybrid Stepper Motor, EPE 2016, Iasi, 20-21 October, 2016, DOI: 10.1109/ICEPE.2016.7781417 Conference: 2016 International Conference and Exposition on Electrical and Power Engineering (EPE), pp.640-643 (Scopus. WoS)"
+      "text": "117. G. Mihalache, Gh. Livint, V.Horga, A.Arcire, A New Mathematical Model for the Command Sequence Generator of a Two-Phase Hybrid Stepper Motor, EPE 2016, Iasi, 20-21 October, 2016, DOI: 10.1109/ICEPE.2016.7781417 Conference: 2016 International Conference and Exposition on Electrical and Power Engineering (EPE), pp.640-643"
     },
     {
       "year": 2016,
@@ -128,7 +128,7 @@ window.SCHOLAR_DATA = {
     },
     {
       "year": 2016,
-      "text": "115. I. Doroftei, I.Conduraru, V.Horga, Preliminary Ideas on the Odometry of an Omni-directional Mobile Robot, Advances in Robot Design and Intelligent Control, pp. 157-164, DOI 10.1007/978-3-319-21290-6_16, Springer International Publishing, 2016, ISBN 978-3-319-21289-0 (Scopus, WoS)"
+      "text": "115. I. Doroftei, I.Conduraru, V.Horga, Preliminary Ideas on the Odometry of an Omni-directional Mobile Robot, Advances in Robot Design and Intelligent Control, pp. 157-164, DOI 10.1007/978-3-319-21290-6_16, Springer International Publishing, 2016, ISBN 978-3-319-21289-0"
     },
     {
       "year": 2015,
@@ -136,7 +136,7 @@ window.SCHOLAR_DATA = {
     },
     {
       "year": 2014,
-      "text": "114. Gabriela Maria Atanasiu, V.Horga, Gray-Box Direct Identification of Structures Based on Continuous-Time Models, pp.117-124, Life-Cycle of Structural Systems: Design, Assessment, Maintenance and Management, Editors: Hitoshi Furuta, Dan M. Frangopol, Mitsuyoshi Akiyama, CRCPress, Taylor & Francis Group, ISBN 9781138001206 - CAT# K22441, 466p, October 21, 2014 (Scopus, WoS)"
+      "text": "114. Gabriela Maria Atanasiu, V.Horga, Gray-Box Direct Identification of Structures Based on Continuous-Time Models, pp.117-124, Life-Cycle of Structural Systems: Design, Assessment, Maintenance and Management, Editors: Hitoshi Furuta, Dan M. Frangopol, Mitsuyoshi Akiyama, CRCPress, Taylor & Francis Group, ISBN 9781138001206 - CAT# K22441, 466p, October 21, 2014"
     },
     {
       "year": 2014,
@@ -148,7 +148,7 @@ window.SCHOLAR_DATA = {
     },
     {
       "year": 2013,
-      "text": "112. Carmen Bujoreanu, V. Horga, B. Drăgan, Vibration Analysis Methods in Bearing Damage Detection, Applied Mechanics and Materials, Vol. 371, No.1, 2013, pp 622-626, ISSN 1662-7482 (Scopus, WoS)"
+      "text": "112. Carmen Bujoreanu, V. Horga, B. Drăgan, Vibration Analysis Methods in Bearing Damage Detection, Applied Mechanics and Materials, Vol. 371, No.1, 2013, pp 622-626, ISSN 1662-7482"
     },
     {
       "year": 2012,
@@ -156,7 +156,7 @@ window.SCHOLAR_DATA = {
     },
     {
       "year": 2011,
-      "text": "110. C.Boţan, F.Ostafi, M.Răţoi, V.Horga, Current and Voltage Control Strategies for Suboptimal Control of Servo Drive Systems, 10th International Symposium on Signals, Circuits and Systems (ISSCS), Iaşi, Jun.30-July 01, 2011, pp. 359-362 (Scopus, WoS)"
+      "text": "110. C.Boţan, F.Ostafi, M.Răţoi, V.Horga, Current and Voltage Control Strategies for Suboptimal Control of Servo Drive Systems, 10th International Symposium on Signals, Circuits and Systems (ISSCS), Iaşi, Jun.30-July 01, 2011, pp. 359-362"
     },
     {
       "year": 2010,
@@ -164,7 +164,7 @@ window.SCHOLAR_DATA = {
     },
     {
       "year": 2010,
-      "text": "108. Gh. Livint, V.Horga, D.Sticea, M.Răţoi, M.Albu, Hybrid Electric Vehicle Experimental Model with CAN Network Real Time Control, Advances in Electrical and Computer Engineering-AECE, vol.10, Issue 2, 2010, pp.102-107 (Scopus, WoS)"
+      "text": "108. Gh. Livint, V.Horga, D.Sticea, M.Răţoi, M.Albu, Hybrid Electric Vehicle Experimental Model with CAN Network Real Time Control, Advances in Electrical and Computer Engineering-AECE, vol.10, Issue 2, 2010, pp.102-107"
     },
     {
       "year": 2010,
@@ -172,7 +172,7 @@ window.SCHOLAR_DATA = {
     },
     {
       "year": 2010,
-      "text": "106. C.Boţan, M.Răţoi, F.Ostafi, V.Horga, Minimum Energy Control of Servo Drive Systems with PMSM, International Symposium on Power Electronics, Electrical Drives, Automation and Motion - SPEEDAM 2010, Pisa, Italy, 14-16 June 2010, pp.19-23 (Scopus)"
+      "text": "106. C.Boţan, M.Răţoi, F.Ostafi, V.Horga, Minimum Energy Control of Servo Drive Systems with PMSM, International Symposium on Power Electronics, Electrical Drives, Automation and Motion - SPEEDAM 2010, Pisa, Italy, 14-16 June 2010, pp.19-23"
     },
     {
       "year": 2010,
@@ -184,11 +184,11 @@ window.SCHOLAR_DATA = {
     },
     {
       "year": 2009,
-      "text": "103. Gh. Livinţ, V.Horga, M.Răţoi, M.Albu, G.Chiriac, Implementing the CANopen Protocol for the Distributed Control of a Hybrid Electric Vehicle, 8th International Symposium on Advanced Electromechanical Motion Systems and Electric Drives Joint Symposium-ELECTROMOTION 2009, 1-3 July 2009, Lille, France,  CD- ISBN 978-2-915913-26-5 (Scopus, WoS)"
+      "text": "103. Gh. Livinţ, V.Horga, M.Răţoi, M.Albu, G.Chiriac, Implementing the CANopen Protocol for the Distributed Control of a Hybrid Electric Vehicle, 8th International Symposium on Advanced Electromechanical Motion Systems and Electric Drives Joint Symposium-ELECTROMOTION 2009, 1-3 July 2009, Lille, France,  CD- ISBN 978-2-915913-26-5"
     },
     {
       "year": 2009,
-      "text": "102. C.Boţan, M.Răţoi, F.Ostafi, V.Horga, Optimal Control of a Servo Drive System with a PMSM, International Symposium on Signals, Circuits and Systems - ISSCS 2009, 9-10 July 2009, Iaşi, Romania, ISBN: 978-1-4244-3785-6, pp.569-572 (Scopus, WoS)"
+      "text": "102. C.Boţan, M.Răţoi, F.Ostafi, V.Horga, Optimal Control of a Servo Drive System with a PMSM, International Symposium on Signals, Circuits and Systems - ISSCS 2009, 9-10 July 2009, Iaşi, Romania, ISBN: 978-1-4244-3785-6, pp.569-572"
     },
     {
       "year": 2009,
@@ -204,27 +204,27 @@ window.SCHOLAR_DATA = {
     },
     {
       "year": 2008,
-      "text": "98. V.Horga, D.D.Lucache, M.Răţoi, A.Simion, M.Albu, Robust Control Strategy to Parameter Variations for an Interior PM Synchronous Machine, WSEAS Trans. on Systems and Control, Issue 5, vol.3, ISSN 1991-8763, May 2008, pp.453-462 (Scopus)"
+      "text": "98. V.Horga, D.D.Lucache, M.Răţoi, A.Simion, M.Albu, Robust Control Strategy to Parameter Variations for an Interior PM Synchronous Machine, WSEAS Trans. on Systems and Control, Issue 5, vol.3, ISSN 1991-8763, May 2008, pp.453-462"
     },
     {
       "year": 2008,
-      "text": "97. C.Boţan, V.Horga, M.Răţoi, Optimal Control of the Electrical Drives with Permanent Magnet Synchronous Machine, 19th International Symposium on Power Electronics, Electrical Drives, Automation and Motion – SPEEDAM 2008, Ischia – Italy, 11-13 June 2008, pp.14-18 (Scopus, WoS)"
+      "text": "97. C.Boţan, V.Horga, M.Răţoi, Optimal Control of the Electrical Drives with Permanent Magnet Synchronous Machine, 19th International Symposium on Power Electronics, Electrical Drives, Automation and Motion – SPEEDAM 2008, Ischia – Italy, 11-13 June 2008, pp.14-18"
     },
     {
       "year": 2008,
-      "text": "96. C.Boţan, V.Horga, Optimal Control of the Electrical Drives with Induction Motors, IEEE International Symposium on Industrial Electronics - ISIE 2008, Cambridge – UK, 30 June - 2 July 2008, pp.425-430 (Scopus, WoS)"
+      "text": "96. C.Boţan, V.Horga, Optimal Control of the Electrical Drives with Induction Motors, IEEE International Symposium on Industrial Electronics - ISIE 2008, Cambridge – UK, 30 June - 2 July 2008, pp.425-430"
     },
     {
       "year": 2008,
-      "text": "95. A.Onea, V.Horga, Identification of Continuous Dynamical Model of Induction Motor Based on the Poisson Moment Functional, 12th WSEAS International Conference on Systems, Heraklion – Greece, 22-24 July 2008, pp.757-762 (WoS)"
+      "text": "95. A.Onea, V.Horga, Identification of Continuous Dynamical Model of Induction Motor Based on the Poisson Moment Functional, 12th WSEAS International Conference on Systems, Heraklion – Greece, 22-24 July 2008, pp.757-762"
     },
     {
       "year": 2008,
-      "text": "94. C.Boţan, M.Răţoi, V.Horga, Optimal Control of Electrical Drives with Induction Motors for Variable Torque, 13th International Power Electronics and Motion Control Conference – EPE PEMC 2008, Poznań – Poland, September 1-3, 2008, pp.1111-1116 (Scopus, WoS)"
+      "text": "94. C.Boţan, M.Răţoi, V.Horga, Optimal Control of Electrical Drives with Induction Motors for Variable Torque, 13th International Power Electronics and Motion Control Conference – EPE PEMC 2008, Poznań – Poland, September 1-3, 2008, pp.1111-1116"
     },
     {
       "year": 2008,
-      "text": "93. Gh.Băluţă, V.Horga, C.Lazăr, Implementation of a Virtual Laboratory for Low Power Electrical Drives, 13th International Power Electronics and Motion Control Conference – EPE PEMC 2008, Poznań – Poland, September 1-3, 2008, pp.2043-2048 (Scopus, WoS)"
+      "text": "93. Gh.Băluţă, V.Horga, C.Lazăr, Implementation of a Virtual Laboratory for Low Power Electrical Drives, 13th International Power Electronics and Motion Control Conference – EPE PEMC 2008, Poznań – Poland, September 1-3, 2008, pp.2043-2048"
     },
     {
       "year": 2008,
@@ -236,43 +236,43 @@ window.SCHOLAR_DATA = {
     },
     {
       "year": 2007,
-      "text": "90. Gh.Livinţ, V.Horga, M.Albu, M.Răţoi, Evaluation of Control Algorithms for Hybrid Electric Vehicles, WSEAS Trans. on Systems, Issue 1, vol.6, January 2007, pp.133-140, ISSN 1109-2777 (Scopus)"
+      "text": "90. Gh.Livinţ, V.Horga, M.Albu, M.Răţoi, Evaluation of Control Algorithms for Hybrid Electric Vehicles, WSEAS Trans. on Systems, Issue 1, vol.6, January 2007, pp.133-140, ISSN 1109-2777"
     },
     {
       "year": 2007,
-      "text": "89. C.Boţan, V.Horga, F.Ostafi, Efficient Control of the Electrical Drives in the Transient State, The IEEE International Electric Machines and Drives Conference, Antalya, Turkey, 3-5 May 2007, pp. 938-942 (Scopus, WoS)"
+      "text": "89. C.Boţan, V.Horga, F.Ostafi, Efficient Control of the Electrical Drives in the Transient State, The IEEE International Electric Machines and Drives Conference, Antalya, Turkey, 3-5 May 2007, pp. 938-942"
     },
     {
       "year": 2007,
-      "text": "88. Gh.Livinţ, M.Răţoi, V.Horga, M.Albu, Estimation of Battery Parameters Based on Continuous-Time Model, International Symposium on Signals, Circuits and Systems -ISSCS 2007, Iaşi, Romania,  12-13 July 2007, vol.2, pp.613-616, IEEE Catalog Number 07EX1678, ISBN 1-4244-0968-3, Library of Congress 2007920356 (Scopus, WoS)"
+      "text": "88. Gh.Livinţ, M.Răţoi, V.Horga, M.Albu, Estimation of Battery Parameters Based on Continuous-Time Model, International Symposium on Signals, Circuits and Systems -ISSCS 2007, Iaşi, Romania,  12-13 July 2007, vol.2, pp.613-616, IEEE Catalog Number 07EX1678, ISBN 1-4244-0968-3, Library of Congress 2007920356"
     },
     {
       "year": 2007,
-      "text": "87. C.Boţan, V.Horga, M.Albu, M.Răţoi, Decoupling Control of an Induction Motor Drive Supplied by a Voltage Source Inverter, International Symposium on Signals, Circuits and Systems -ISSCS 2007, Iaşi, Romania,  12-13 July 2007, vol.2, pp.421-424, IEEE Catalog Number 07EX1678, ISBN 1-4244-0968-3, Library of Congress 2007920356 (Scopus, WoS)"
+      "text": "87. C.Boţan, V.Horga, M.Albu, M.Răţoi, Decoupling Control of an Induction Motor Drive Supplied by a Voltage Source Inverter, International Symposium on Signals, Circuits and Systems -ISSCS 2007, Iaşi, Romania,  12-13 July 2007, vol.2, pp.421-424, IEEE Catalog Number 07EX1678, ISBN 1-4244-0968-3, Library of Congress 2007920356"
     },
     {
       "year": 2007,
-      "text": "86. C.Botan, V.Horga, F.Ostafi, Energy – Time Dichotomy in the Optimal Control of the Electrical Drives, 3rd IASME/WSEAS International Conference on Energy, Environment, Ecosystems and Sustainable Development -EEESD '07, Agios Nikolaos, Crete Island, Greece, July 24-26, 2007, pp.541-547, ISSN: 1790-5095, ISBN: 978-960-8457-88-1 (WoS)"
+      "text": "86. C.Botan, V.Horga, F.Ostafi, Energy – Time Dichotomy in the Optimal Control of the Electrical Drives, 3rd IASME/WSEAS International Conference on Energy, Environment, Ecosystems and Sustainable Development -EEESD '07, Agios Nikolaos, Crete Island, Greece, July 24-26, 2007, pp.541-547, ISSN: 1790-5095, ISBN: 978-960-8457-88-1"
     },
     {
       "year": 2007,
-      "text": "85. C.Boţan, V.Horga, F.Ostafi, M.Albu, M.Răţoi, General Aspects of the Electrical Drive Systems Optimal Control, 12th European Conference on Power Electronics and Applications - EPE 2007, Aalborg, Denmark, 2 -5 September 2007 (Scopus, WoS)"
+      "text": "85. C.Boţan, V.Horga, F.Ostafi, M.Albu, M.Răţoi, General Aspects of the Electrical Drive Systems Optimal Control, 12th European Conference on Power Electronics and Applications - EPE 2007, Aalborg, Denmark, 2 -5 September 2007"
     },
     {
       "year": 2007,
-      "text": "84. M.Albu, V.Horga, M.Raţoi, C.Boţan, DC Link Voltage Control of an Induction Generator/PWM Converter System, International Aegean Conference on Electric Machines, Power Electronics and Electromotion (ACEMP’07 & Electromotion’07)-Joint Conference, Bodrum, Turkey, 10-12  September 2007, pp.766-769, ISBN 978-975-93410-2-2 (Scopus, WoS)"
+      "text": "84. M.Albu, V.Horga, M.Raţoi, C.Boţan, DC Link Voltage Control of an Induction Generator/PWM Converter System, International Aegean Conference on Electric Machines, Power Electronics and Electromotion (ACEMP’07 & Electromotion’07)-Joint Conference, Bodrum, Turkey, 10-12  September 2007, pp.766-769, ISBN 978-975-93410-2-2"
     },
     {
       "year": 2007,
-      "text": "83. D.D.Lucache, V.Horga, M.Răţoi, M.Albu, Hardware-In-the-Loop Testing of an Integrated Starter Generator, International Aegean Conference on Electric Machines, Power Electronics and Electromotion (ACEMP’07 & Electromotion’07)-Joint Conference, Bodrum, Turkey, 10-12  September 2007, pp 363-368, ISBN 978-975-93410-2-2 (Scopus, WoS)"
+      "text": "83. D.D.Lucache, V.Horga, M.Răţoi, M.Albu, Hardware-In-the-Loop Testing of an Integrated Starter Generator, International Aegean Conference on Electric Machines, Power Electronics and Electromotion (ACEMP’07 & Electromotion’07)-Joint Conference, Bodrum, Turkey, 10-12  September 2007, pp 363-368, ISBN 978-975-93410-2-2"
     },
     {
       "year": 2007,
-      "text": "82. Gh.Băluţă, V.Horga, Control of Stepper Motors on Virtual Laboratory, 15th IMEKO TC4 Symposium on Novelties in Electrical Measurements and Instrumentation, Iaşi, România, 18-22 September, 2007, vol.2, pp.692-697, ISBN 978-973-667-260-6 (Scopus)"
+      "text": "82. Gh.Băluţă, V.Horga, Control of Stepper Motors on Virtual Laboratory, 15th IMEKO TC4 Symposium on Novelties in Electrical Measurements and Instrumentation, Iaşi, România, 18-22 September, 2007, vol.2, pp.692-697, ISBN 978-973-667-260-6"
     },
     {
       "year": 2007,
-      "text": "81. V.Horga, D.D.Lucache, M.Răţoi, A.Simion, M.Albu, Control of an Interior PM Synchronous Machine for Operating as Integrated Starter-Generator, 3rd WSEAS International Conference on Dynamical Systems and Control - Control'07, Arcachon, France, October 13-15, 2007, pp. 194-199 ISBN: 978-960-6766-02-2 (WoS)"
+      "text": "81. V.Horga, D.D.Lucache, M.Răţoi, A.Simion, M.Albu, Control of an Interior PM Synchronous Machine for Operating as Integrated Starter-Generator, 3rd WSEAS International Conference on Dynamical Systems and Control - Control'07, Arcachon, France, October 13-15, 2007, pp. 194-199 ISBN: 978-960-6766-02-2"
     },
     {
       "year": 2007,
@@ -316,7 +316,7 @@ window.SCHOLAR_DATA = {
     },
     {
       "year": 2006,
-      "text": "70. C.Boţan, F.Ostafi, V.Horga, Suboptimal Control of Servo Drive Systems, WSEAS Trans. on Mathematics, Issue 3, vol.5, March 2006, pp.308-313, ISSN 1109-2769 (Scopus)"
+      "text": "70. C.Boţan, F.Ostafi, V.Horga, Suboptimal Control of Servo Drive Systems, WSEAS Trans. on Mathematics, Issue 3, vol.5, March 2006, pp.308-313, ISSN 1109-2769"
     },
     {
       "year": 2006,
@@ -332,7 +332,7 @@ window.SCHOLAR_DATA = {
     },
     {
       "year": 2006,
-      "text": "66. A.Onea, V.Horga, M.Răţoi, Indirect Vector Control of Induction Motor Based on Minimum Number of Parameters Model, WSEAS Trans. on Circuits and Systems, Issue 10, vol.5, October 2006, pp.1514-1521, ISSN 1109-2734 (Scopus)"
+      "text": "66. A.Onea, V.Horga, M.Răţoi, Indirect Vector Control of Induction Motor Based on Minimum Number of Parameters Model, WSEAS Trans. on Circuits and Systems, Issue 10, vol.5, October 2006, pp.1514-1521, ISSN 1109-2734"
     },
     {
       "year": 2006,
@@ -340,11 +340,11 @@ window.SCHOLAR_DATA = {
     },
     {
       "year": 2006,
-      "text": "64. A.Onea, V.Horga, M.Răţoi, Indirect Vector Control of Induction Motor, 6th WSEAS International Conference on Simulation, Modelling and Optimization - SMO '06, Lisbon, Portugal, September 22-24 2006, pp. 98-103 (Scopus)"
+      "text": "64. A.Onea, V.Horga, M.Răţoi, Indirect Vector Control of Induction Motor, 6th WSEAS International Conference on Simulation, Modelling and Optimization - SMO '06, Lisbon, Portugal, September 22-24 2006, pp. 98-103"
     },
     {
       "year": 2006,
-      "text": "63. D.D.Lucache, V.Horga, M.Albu, M.Răţoi, Indirect Field Oriented Control of an Integrated Starter Generator, The 32nd Annual Conference of the IEEE Industrial Electronics Society - IECON'06, Paris – France, November 6 - 10, 2006, pp.5107-5112, IEEE Catalog Number: 06CH37763C, ISBN 1-4244-0136-4, ISSN 1553-572X (Scopus, WoS)"
+      "text": "63. D.D.Lucache, V.Horga, M.Albu, M.Răţoi, Indirect Field Oriented Control of an Integrated Starter Generator, The 32nd Annual Conference of the IEEE Industrial Electronics Society - IECON'06, Paris – France, November 6 - 10, 2006, pp.5107-5112, IEEE Catalog Number: 06CH37763C, ISBN 1-4244-0136-4, ISSN 1553-572X"
     },
     {
       "year": 2005,
@@ -368,11 +368,11 @@ window.SCHOLAR_DATA = {
     },
     {
       "year": 2005,
-      "text": "57. A.Onea, V.Horga, M.Răţoi, Software Tools for DSP Motion Control Applications, WSEAS Trans. on Information Science & Applications, Issue 12, vol.2, December 2005, pp. 2251-2258, ISSN 1790-0832 (Scopus)"
+      "text": "57. A.Onea, V.Horga, M.Răţoi, Software Tools for DSP Motion Control Applications, WSEAS Trans. on Information Science & Applications, Issue 12, vol.2, December 2005, pp. 2251-2258, ISSN 1790-0832"
     },
     {
       "year": 2004,
-      "text": "56. M.Albu, V.Horga, M.Răţoi, Disturbance Torque Observers for the Induction Motor Drives, 4th International Conference on Optimisation of Electrical and Electronic Equipment - OPTIM ‘04, Poiana Braşov, Romania, 20-23 May 2004, vol.3., pp.136-139 (WoS)"
+      "text": "56. M.Albu, V.Horga, M.Răţoi, Disturbance Torque Observers for the Induction Motor Drives, 4th International Conference on Optimisation of Electrical and Electronic Equipment - OPTIM ‘04, Poiana Braşov, Romania, 20-23 May 2004, vol.3., pp.136-139"
     },
     {
       "year": 2004,
@@ -388,15 +388,15 @@ window.SCHOLAR_DATA = {
     },
     {
       "year": 2003,
-      "text": "52. A.Onea, V.Horga, C.Boţan, M.Albu, Multitime Scale Approach to Induction Motor Parameter Estimation, International Symposium on Signals, Circuits and Systems - ISSCS 2003, Iaşi, Romania, 10-11 July 2003, pp.325-328,  IEEE Catalog Number 03EX720 (Scopus, WoS)"
+      "text": "52. A.Onea, V.Horga, C.Boţan, M.Albu, Multitime Scale Approach to Induction Motor Parameter Estimation, International Symposium on Signals, Circuits and Systems - ISSCS 2003, Iaşi, Romania, 10-11 July 2003, pp.325-328,  IEEE Catalog Number 03EX720"
     },
     {
       "year": 2003,
-      "text": "51. V.Horga, A.Onea, M.Răţoi, I.Graur, A Self-Commissioning Method for Induction Motor Drive Systems, International Symposium on Signals, Circuits and Systems - ISSCS 2003, Iaşi, Romania, 10-11 July 2003, pp.329-332, IEEE Catalog Number 03EX720 (Scopus, WoS)"
+      "text": "51. V.Horga, A.Onea, M.Răţoi, I.Graur, A Self-Commissioning Method for Induction Motor Drive Systems, International Symposium on Signals, Circuits and Systems - ISSCS 2003, Iaşi, Romania, 10-11 July 2003, pp.329-332, IEEE Catalog Number 03EX720"
     },
     {
       "year": 2003,
-      "text": "50. M.Albu, V.Horga, M.Răţoi, Induction Motor Supply in Low Speed Range by PWM Inverters, International Symposium on Signals, Circuits and Systems - ISSCS 2003, Iaşi, Romania, 10-11 July 2003, pp.333-336, IEEE Catalog Number 03EX720  (Scopus, WoS)"
+      "text": "50. M.Albu, V.Horga, M.Răţoi, Induction Motor Supply in Low Speed Range by PWM Inverters, International Symposium on Signals, Circuits and Systems - ISSCS 2003, Iaşi, Romania, 10-11 July 2003, pp.333-336, IEEE Catalog Number 03EX720"
     },
     {
       "year": 2003,
@@ -420,11 +420,11 @@ window.SCHOLAR_DATA = {
     },
     {
       "year": 2002,
-      "text": "44. V.Horga, A.Onea, M.P.Diaconescu, A Method for Parameter Estimation in Induction Motor Drives, 6th WSEAS International Multiconference on Circuits, Systems, Communications and Computers, Rethymnon, Crete, Greece, 7-14 July 2002, pp.4111-4115 (Scopus)"
+      "text": "44. V.Horga, A.Onea, M.P.Diaconescu, A Method for Parameter Estimation in Induction Motor Drives, 6th WSEAS International Multiconference on Circuits, Systems, Communications and Computers, Rethymnon, Crete, Greece, 7-14 July 2002, pp.4111-4115"
     },
     {
       "year": 2002,
-      "text": "43. A.Onea, V.Horga, M.P.Diaconescu, C.Boţan, Off-line Parameter Estimation of Induction Motor Based on a Multitime Scale Approach, 6th WSEAS International Multiconference on Circuits, Systems, Communications and Computers, Rethymnon, Crete, Greece, 7-14 July 2002, pp.4061-4066 (Scopus)"
+      "text": "43. A.Onea, V.Horga, M.P.Diaconescu, C.Boţan, Off-line Parameter Estimation of Induction Motor Based on a Multitime Scale Approach, 6th WSEAS International Multiconference on Circuits, Systems, Communications and Computers, Rethymnon, Crete, Greece, 7-14 July 2002, pp.4061-4066"
     },
     {
       "year": 2002,
